@@ -1,4 +1,4 @@
-package CompleteReference;
+package CompleteReference.Flow;
 
 import java.io.BufferedReader;
 import java.io.IOException;

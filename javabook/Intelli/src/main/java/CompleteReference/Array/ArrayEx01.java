@@ -1,4 +1,4 @@
-package CompleteReference;
+package CompleteReference.Array;
 
 public class ArrayEx01 {
     public static void main(String[] args) {
